@@ -1,1 +1,3 @@
-python -m streamlit run app.py
+CLASSIFICATION OF DIABETES DISEASE DATA USING ALGORITHM DECISION TREE AND PARTICLE SWARM OPTIMIZATION
+
+How to Run the Program: type -> python -m streamlit run app.py
